@@ -1,6 +1,6 @@
 # 👨‍💻 Gustavo Pigaiani
 
-**`Desenvolvedor Back-end/Analista de Dados`**
+**`Backend Developer`**
 
 Me chamo Gustavo Alves Pigaiani, tenho 19 anos e sou natural de Campinas/SP. Concluí o ensino médio na Fundação Bradesco, realizei curso técnico em informática na Escola Salesiana São José e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Paulista. Já participei de feiras de tecnologia promovidas pelo Instituto 3M e pelo IFSP de Bragança Paulista. Sou um entusiasta da tecnologia, sempre buscando aprender e explorar novas tecnologias. Tenho interesse em desenvolvimento de software, automação, análise de dados e inovação.
 
@@ -27,6 +27,14 @@ Me chamo Gustavo Alves Pigaiani, tenho 19 anos e sou natural de Campinas/SP. Con
 
 <img 
     align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -35,13 +43,29 @@ Me chamo Gustavo Alves Pigaiani, tenho 19 anos e sou natural de Campinas/SP. Con
 />
 <img 
     align="left" 
-    alt="C#"
-    title="C#" 
+    alt="MySQL"
+    title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+    src="https://devicon-website.vercel.app/api/mysql/original.svg"
 />
 <img 
+    align="left" 
+    alt="VS Code" 
+    title="VS Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/vscode/original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Slack"
+    title="Slack" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/slack/original.svg"
+/>
+<!--<img 
     align="left" 
     alt="C++" 
     title="C++"
@@ -88,7 +112,7 @@ Me chamo Gustavo Alves Pigaiani, tenho 19 anos e sou natural de Campinas/SP. Con
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+/>-->
 <br/>
 <br/>
 
