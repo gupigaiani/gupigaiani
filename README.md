@@ -2,7 +2,14 @@
 
 **`Backend Developer`**
 
-Me chamo Gustavo Alves Pigaiani, tenho 20 anos, sou aluno no curso de Análise e Desenvolvimento de Sistemas na Universidade Paulista. Atualmente sou estagiário de TI com experiência em C# e .NET 7+, atuando na construção, manutenção e evolução de sistemas backend voltados à automação de processos, coleta e mineração de dados em larga escala.
+Desenvolvedor Backend com foco em .NET 7+, automação de processos e mineração de dados em larga escala.
+Experiência prática com construção e manutenção de crawlers, APIs e serviços backend escaláveis em ambientes cloud (Azure e AWS).
+
+### 🧠 Atuação
+- Desenvolvimento de sistemas backend em C# e .NET 7+
+- Automação de processos e coleta de dados
+- Crawlers HTTP e scraping com Selenium
+- Integrações com APIs e bancos de dados relacionais
 
 <!-- <p align="left">
     <a href="https://github.com/gupigaiani?tab=repositories&sort=stargazers">
@@ -64,82 +71,9 @@ Me chamo Gustavo Alves Pigaiani, tenho 20 anos, sou aluno no curso de Análise e
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg"
 />
-<!-- <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/> -->
-
-<!-- <img 
-    align="left" 
-    alt="VS Code" 
-    title="VS Code"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/vscode/original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Slack"
-    title="Slack" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/slack/original.svg"
-/> -->
-<!--<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" larissakich
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>-->
 <br/>
 <br/>
-
+<!-- 
 ### 📊 Estatísticas
 
 <p>
@@ -158,5 +92,5 @@ Me chamo Gustavo Alves Pigaiani, tenho 20 anos, sou aluno no curso de Análise e
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gupigaiani&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p> -->
 
