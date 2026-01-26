@@ -1,10 +1,10 @@
-# 👨‍💻 Gustavo Pigaiani
+# 👨‍💻 Gustavo Alves Pigaiani
 
 **`Backend Developer`**
 
-Me chamo Gustavo Alves Pigaiani, tenho 19 anos e sou natural de Campinas/SP. Concluí o ensino médio na Fundação Bradesco, realizei curso técnico em informática na Escola Salesiana São José e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Paulista. Já participei de feiras de tecnologia promovidas pelo Instituto 3M e pelo IFSP de Bragança Paulista. Sou um entusiasta da tecnologia, sempre buscando aprender e explorar novas tecnologias. Tenho interesse em desenvolvimento de software, automação, análise de dados e inovação.
+Me chamo Gustavo Alves Pigaiani, tenho 20 anos, sou aluno no curso de Análise e Desenvolvimento de Sistemas na Universidade Paulista. Atualmente sou estagiário de TI com experiência em C# e .NET 7+, atuando na construção, manutenção e evolução de sistemas backend voltados à automação de processos, coleta e mineração de dados em larga escala.
 
-<p align="left">
+<!-- <p align="left">
     <a href="https://github.com/gupigaiani?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -19,12 +19,19 @@ Me chamo Gustavo Alves Pigaiani, tenho 19 anos e sou natural de Campinas/SP. Con
             src="https://custom-icon-badges.demolab.com/github/followers/gupigaiani?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+</p> -->
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<img 
+    align="left" 
+    alt="dotnet"
+    title="dotnet" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png"
+/>
 <img 
     align="left" 
     alt="C#"
@@ -35,14 +42,6 @@ Me chamo Gustavo Alves Pigaiani, tenho 19 anos e sou natural de Campinas/SP. Con
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
     alt="MySQL"
     title="MySQL" 
     width="30px" 
@@ -50,6 +49,31 @@ Me chamo Gustavo Alves Pigaiani, tenho 19 anos e sou natural de Campinas/SP. Con
     src="https://devicon-website.vercel.app/api/mysql/original.svg"
 />
 <img 
+    align="left" 
+    alt="Azure"
+    title="Azure" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/azure/original.svg"
+/>
+<img 
+    align="left" 
+    alt="AWS"
+    title="AWS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg"
+/>
+<!-- <img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/> -->
+
+<!-- <img 
     align="left" 
     alt="VS Code" 
     title="VS Code"
@@ -64,7 +88,7 @@ Me chamo Gustavo Alves Pigaiani, tenho 19 anos e sou natural de Campinas/SP. Con
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/slack/original.svg"
-/>
+/> -->
 <!--<img 
     align="left" 
     alt="C++" 
