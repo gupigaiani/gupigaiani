@@ -2,14 +2,14 @@
 
 **`Backend Developer`**
 
-Desenvolvedor Backend com foco em .NET 7+, automação de processos e mineração de dados em larga escala.
-Experiência prática com construção e manutenção de crawlers, APIs e serviços backend escaláveis em ambientes cloud (Azure e AWS).
+Backend Developer focused on .NET 7+, process automation, and large-scale data mining.
+Hands-on experience in building and maintaining crawlers, APIs, and scalable backend services in cloud environments (Azure and AWS).
 
-### 🧠 Atuação
-- Desenvolvimento de sistemas backend em C# e .NET 7+
-- Automação de processos e coleta de dados
-- Crawlers HTTP e scraping com Selenium
-- Integrações com APIs e bancos de dados relacionais
+### 🧠 Responsibilities
+- Backend systems development using C# and .NET 7+
+- Process automation and data collection
+- HTTP crawlers and web scraping with Selenium
+- Integrations with APIs and relational databases
 
 <!-- <p align="left">
     <a href="https://github.com/gupigaiani?tab=repositories&sort=stargazers">
@@ -30,7 +30,7 @@ Experiência prática com construção e manutenção de crawlers, APIs e servi�
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 <img 
     align="left" 
     alt="dotnet"
