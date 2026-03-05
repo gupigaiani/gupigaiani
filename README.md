@@ -1,13 +1,13 @@
 # 👨‍💻 Gustavo Alves Pigaiani
 
-**`Backend Developer`**
+**`.NET Backend Developer`**
 
-Developer with 1 year of experience in .NET (from version 7 to 10), working on the development and maintenance of sustainable, high-quality applications.
+Backend Developer with 1 year of experience, working on the development and maintenance of scalable, high-quality applications.
 I have a strong technical foundation and apply software engineering best practices in system development, with a focus on organization, performance, and continuous improvement of solutions.
 
 --- 
 
-## 🌐 Where to find me
+## 🌐 Where to Find Me
 
 <p align="left">
   <a href="https://github.com/gupigaiani">
