@@ -2,14 +2,31 @@
 
 **`Backend Developer`**
 
-Backend developer with 1 year of experience in .NET (from version 7 to 10), working on the development and maintenance of sustainable, high-quality applications.
+Developer with 1 year of experience in .NET (from version 7 to 10), working on the development and maintenance of sustainable, high-quality applications.
 I have a strong technical foundation and apply software engineering best practices in system development, with a focus on organization, performance, and continuous improvement of solutions.
 
-### 🧠 Responsibilities
-- Backend systems development using C# and .NET 7+
-- Process automation and data collection
-- HTTP crawlers and web scraping with Selenium
-- Integrations with APIs and relational databases
+--- 
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/gupigaiani">
+    <img src="https://img.shields.io/badge/GitHub-gupigaiani-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-pigaiani/">
+    <img src="https://img.shields.io/badge/LinkedIn-gustavopigaiani-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 🧠 What I Do
+- Backend systems development using .NET 7+
+- Crawlers using HttpClient and Selenium
+- Automation strategies and captcha handling
+- Data mining and extraction projects
+- Integration with databases
+- API consumption and REST services
 
 <!-- <p align="left">
     <a href="https://github.com/gupigaiani?tab=repositories&sort=stargazers">
@@ -30,7 +47,15 @@ I have a strong technical foundation and apply software engineering best practic
 
 ---
 
-### 🤖 Languages and Technologies
+## 🤖 Tech Stack
+
+### Backend
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<!--
 <img 
     align="left" 
     alt="dotnet"
@@ -63,6 +88,13 @@ I have a strong technical foundation and apply software engineering best practic
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg?color=%23999999"
 />
+-->
+### DevOps & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<!--
 <img 
     align="left" 
     alt="Azure"
@@ -79,8 +111,15 @@ I have a strong technical foundation and apply software engineering best practic
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg"
 />
-<br/>
-<br/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/git/original.svg"
+/>
+-->
 <!-- 
 ### 📊 Estatísticas
 
