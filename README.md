@@ -2,8 +2,8 @@
 
 **`Backend Developer`**
 
-Backend Developer focused on .NET 7+, process automation, and large-scale data mining.
-Hands-on experience in building and maintaining crawlers, APIs, and scalable backend services in cloud environments (Azure and AWS).
+Backend developer with 1 year of experience in .NET (from version 7 to 10), working on the development and maintenance of sustainable, high-quality applications.
+I have a strong technical foundation and apply software engineering best practices in system development, with a focus on organization, performance, and continuous improvement of solutions.
 
 ### 🧠 Responsibilities
 - Backend systems development using C# and .NET 7+
@@ -54,6 +54,14 @@ Hands-on experience in building and maintaining crawlers, APIs, and scalable bac
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/mysql/original.svg"
+/>
+<img 
+    align="left" 
+    alt="SQLServer"
+    title="SQLServer" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg?color=%23999999"
 />
 <img 
     align="left" 
