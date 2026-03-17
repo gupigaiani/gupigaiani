@@ -22,11 +22,13 @@ I have a strong technical foundation and apply software engineering best practic
 
 ## 🧠 What I Do
 - Backend systems development using .NET 7+
+- Applications based on ASP.NET Core
 - Crawlers using HttpClient and Selenium
 - Automation strategies and captcha handling
 - Data mining and extraction projects
+- Asynchronous processing, queues and long-running tasks
 - Integration with databases
-- API consumption and REST services
+- API consumption and RESTful services
 
 <!-- <p align="left">
     <a href="https://github.com/gupigaiani?tab=repositories&sort=stargazers">
