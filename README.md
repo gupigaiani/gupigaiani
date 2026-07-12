@@ -2,7 +2,7 @@
 
 **`.NET Backend Developer`**
 
-Backend Developer with 1 year of experience, working on the development and maintenance of scalable, high-quality applications.
+Backend Developer, working on the development and maintenance of scalable, high-quality applications.
 I have a strong technical foundation and apply software engineering best practices in system development, with a focus on organization, performance, and continuous improvement of solutions.
 
 --- 
